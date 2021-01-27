@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="APITesting" duration-ms="12520" started-at="2021-01-04T14:46:40Z" finished-at="2021-01-04T14:46:52Z">
+    <groups>
+    </groups>
+    <test name="API" duration-ms="12520" started-at="2021-01-04T14:46:40Z" finished-at="2021-01-04T14:46:52Z">
+      <class name="stepDefinition.APITest">
+        <test-method status="PASS" signature="test2_put_dd(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:stepDefinition.APITest@31d7b7bf]" name="test2_put_dd" duration-ms="5682" started-at="2021-01-04T08:46:45Z" data-provider="userdata" finished-at="2021-01-04T08:46:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Don]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_put_dd -->
+        <test-method status="PASS" signature="test2_put_dd(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:stepDefinition.APITest@31d7b7bf]" name="test2_put_dd" duration-ms="651" started-at="2021-01-04T08:46:51Z" data-provider="userdata" finished-at="2021-01-04T08:46:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bbc@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rob]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bob]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_put_dd -->
+        <test-method status="PASS" signature="test2_put_dd(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:stepDefinition.APITest@31d7b7bf]" name="test2_put_dd" duration-ms="693" started-at="2021-01-04T08:46:51Z" data-provider="userdata" finished-at="2021-01-04T08:46:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dfg@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Van]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dan]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_put_dd -->
+      </class> <!-- stepDefinition.APITest -->
+    </test> <!-- API -->
+  </suite> <!-- APITesting -->
+</testng-results>
